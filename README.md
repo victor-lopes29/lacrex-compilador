@@ -1,5 +1,7 @@
 # LaCreX e Compilador
 
+Primeiramente, esse projeto foi desenvolvido em conjunto por um grupo de 4 alunos do 7º perído de Ciência da Computação.
+
 Este projeto é dedicado à criação de uma nova linguagem de programação chamada LaCreX. Além disso, estamos desenvolvendo um compilador para essa linguagem usando a ferramenta ANTLR.
 
 ## Sobre LaCreX
